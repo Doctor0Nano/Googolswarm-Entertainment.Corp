@@ -1,0 +1,19 @@
+***
+
+**Complex (Gaussian) notation form:**
+$$
+\mathcal{E}_H = (\mathcal{R}_f + \mathcal{W}_x)^{3/2} + \nabla^2_{\mu,\lambda}(\mathbb{J})
+$$
+$$
+\mathcal{L} = \lim_{t \to \infty} \frac{e^{i\pi t}}{\mathcal{E}_H} (1 + \sin(\mathcal{W}_x))
+$$
+
+**Tensor (Einstein) notation form:**
+$$
+E_H = (R_f + W_x)^{3/2} + g^{\mu\nu}(\nabla_\mu \nabla_\nu J)
+$$
+$$
+L = \lim_{t \to \infty} e^{i\pi t} E_H^{-1} (1 + \sin(W_x))
+$$
+
+***
